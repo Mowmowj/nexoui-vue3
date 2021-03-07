@@ -11,9 +11,11 @@
 $color: #007974;
 .nav {
   color: $color;
+  background-color: pink;
   display: flex;
   padding: 16px;
   top: 0;
+  position: fixed;
   left: 0;
   width: 100%;
   z-index: 20;
