@@ -5,7 +5,7 @@ import Home from './views/Home.vue'
 
 
 
-import './index.css'
+import './index.scss'
 import {createWebHashHistory , createRouter} from 'vue-router'
 
 const history = createWebHashHistory()
