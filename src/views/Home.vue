@@ -4,7 +4,7 @@
         <h2>nexo ui </h2>
         <h3>one amazing ui library</h3>
         <p class="move">
-            <a href="">Github</a>
+            <a  target="_blank" href="https://github.com/Mowmowj/nexoui-vue3">Github</a>
             <router-link to="/kit">开始</router-link>
         </p>
     </div>
