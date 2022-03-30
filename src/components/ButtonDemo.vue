@@ -17,7 +17,7 @@ export default {
     components:{ Button },
     setup(){
         const onClick=()=>{
-            console.log('!')
+            console.log('just test my application')
         }
         return { onClick }
     }
